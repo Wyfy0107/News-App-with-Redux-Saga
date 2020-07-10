@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9da8652ccc5e11c9249d2a7f86c22280",
+    "revision": "e163d379096fdac1a16e0942cd9c9a63",
     "url": "/News-App-with-Redux-Saga/index.html"
   },
   {
-    "revision": "9b068ad79501e10dba0e",
+    "revision": "f57bc63433f1c2465134",
     "url": "/News-App-with-Redux-Saga/static/css/main.d4027325.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/News-App-with-Redux-Saga/static/js/2.6d5ad3d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b068ad79501e10dba0e",
-    "url": "/News-App-with-Redux-Saga/static/js/main.131f56a2.chunk.js"
+    "revision": "f57bc63433f1c2465134",
+    "url": "/News-App-with-Redux-Saga/static/js/main.c3762c06.chunk.js"
   },
   {
     "revision": "e64e2c1463228b0059d0",
