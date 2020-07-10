@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e163d379096fdac1a16e0942cd9c9a63",
+    "revision": "bb1dbccdaa1bf9246eb37f3d74e94291",
     "url": "/News-App-with-Redux-Saga/index.html"
   },
   {
